@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-      "start": "json-server sample.json --port $3000"
+      "start": "json-server sample.json --port $PORT"
     },
     "dependencies": {
       "json-server": "^0.17.3"
